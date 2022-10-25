@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS8766: A nulidade de tipos de referência no tipo de retorno não corresponde ao membro implementado implicitamente (possivelmente devido a atributos de nulidade).
+dotnet_diagnostic.CS8766.severity = none
